@@ -37,6 +37,13 @@ En la imagen se puede ver la curva de la transferencia de potencia donde la tran
 
 **5.EXPLICACIÓN**
 
+PRACTICA 
+
+Una vez que se ha completado el montaje del circuito eléctrico se encuentra listo para obtener los valores de la corriente  y el voltaje  por cada resitencia de carga   ya obteniendo estos dos datos se procedió al cálculo de la potencia.
+
+ Con la ayuda de un vatímetro se llega a corroborar el valor teórico con el experimental.
+
+
 **6.APORTACIONES**
 
 Simulación para  la resistencia de carga  de 220 Ohm
@@ -49,6 +56,10 @@ Simulación para  la resistencia de carga  de 220 Ohm
 
 **9.CONCLUSIONES**
 
+Finalmente se llega a corroborar el teorema de  máxima  transferencia de potencia el cual dice que cuando la resistencia de  carga es igual al valor de la resistencia de la fuente se va a obtener su valor máximo de potencia mediante el análisis del circuito realizado previamente se observó de manera practica que para resistencias menores a 1200 Ohm y mayores a la misma los valores de la potencia eran mínimos. Por lo cual se concluye que; para que experimente la máxima potencia  en el circuito el valor de la resistencia de carga debe ser de 1200Ohm , los valores que se asemejan  a esta resistencia  llegan a obtener una potencia relativamente máxima
+
 **10.BIBLIOGRAFÍA**
+
+[1]	Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN
 
 **11.ANEXOS**
