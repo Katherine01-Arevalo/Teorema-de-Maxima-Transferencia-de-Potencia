@@ -83,6 +83,6 @@ Finalmente se llega a corroborar el teorema de  máxima  transferencia de potenc
 
 **10.BIBLIOGRAFÍA**
 
-[1]	Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN
+	Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN
 
 **11.ANEXOS**
