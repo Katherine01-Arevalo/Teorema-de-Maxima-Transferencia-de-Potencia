@@ -53,9 +53,10 @@ Simulación para  la resistencia de carga  de 220 Ohm
 
 **8.PRERREQUISITOS**
 
--Al instante de generar la simulación tener en cuenta la unidad de media para el uso del amperímetro y el voltaje a utilizar.
+- Al instante de generar la simulación tener en cuenta la unidad de media para el uso del amperímetro y el voltaje a utilizar.
 - En el uso del vatímetro tener en cuenta  a que terminal se conecta la parte de la corriente(serie) y la parte del voltaje (paralelo).
--Verificar que el circuito se encuentre bien conectado, caso contrario se generaran datos erróneos.
+- Verificar que el circuito se encuentre bien conectado, caso contrario se generaran datos erróneos.
+
 
 **9.CONCLUSIONES**
 
