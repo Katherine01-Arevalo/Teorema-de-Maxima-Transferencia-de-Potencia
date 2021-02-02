@@ -25,6 +25,8 @@ Específicos:
 
 ![Grafico_potencia](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/Grafico_potencia.png)
 
+En la imagen se puede ver la curva de la transferencia de potencia donde la transferencia máxima de potencia se da cuando el valor de la resistencia de carga es igual al de la resistencia interna de la fuente.  
+
 **3.DIAGRAMAS**
 
 ![circuito](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/circuito.png)
