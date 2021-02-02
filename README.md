@@ -39,8 +39,7 @@ En la imagen se puede ver la curva de la transferencia de potencia donde la tran
 
 PRACTICA 
 
-Una vez que se ha completado el montaje del circuito eléctrico se encuentra listo para obtener los valores de la corriente  y el voltaje  por cada resitencia de carga   ya obteniendo estos dos datos se procedió al cálculo de la potencia.
-
+Una vez que se ha completado el montaje del circuito eléctrico se encuentra listo para obtener los valores de la corriente  y el voltaje  por cada resistencia de carga   ya obteniendo estos dos datos se procedió al cálculo de la potencia.
  Con la ayuda de un vatímetro se llega a corroborar el valor teórico con el experimental.
 
 
@@ -53,6 +52,10 @@ Simulación para  la resistencia de carga  de 220 Ohm
 **7.MANUAL DE USUARIO** 
 
 **8.PRERREQUISITOS**
+
+-Al instante de generar la simulación tener en cuenta la unidad de media para el uso del amperímetro y el voltaje a utilizar.
+- En el uso del vatímetro tener en cuenta  a que terminal se conecta la parte de la corriente(serie) y la parte del voltaje (paralelo).
+-Verificar que el circuito se encuentre bien conectado, caso contrario se generaran datos erróneos.
 
 **9.CONCLUSIONES**
 
