@@ -23,11 +23,19 @@ Específicos:
 
 **3.DIAGRAMAS**
 
+![circuito](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/circuito.png)
+
 **4.LISTA DE COMPONENTES**
+
+![lista](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/materiales.png)
 
 **5.EXPLICACIÓN**
 
 **6.APORTACIONES**
+
+Simulación para  la resistencia de carga  de 220 Ohm
+
+![simulacion](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/simulacion.png)
 
 **7.MANUAL DE USUARIO** 
 
