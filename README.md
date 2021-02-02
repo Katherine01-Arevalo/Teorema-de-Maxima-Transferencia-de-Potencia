@@ -21,6 +21,10 @@ Específicos:
 
 **2.MARCO TEÓRICO**
 
+![Transferencia de Potencia](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/Transferencia%20de%20potencia.png)
+
+![Grafico_potencia](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/Grafico_potencia.png)
+
 **3.DIAGRAMAS**
 
 ![circuito](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/circuito.png)
