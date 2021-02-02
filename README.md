@@ -37,10 +37,20 @@ En la imagen se puede ver la curva de la transferencia de potencia donde la tran
 
 **5.EXPLICACIÓN**
 
-PRACTICA 
+TEÓRICA:
 
-Una vez que se ha completado el montaje del circuito eléctrico se encuentra listo para obtener los valores de la corriente  y el voltaje  por cada resistencia de carga   ya obteniendo estos dos datos se procedió al cálculo de la potencia.
- Con la ayuda de un vatímetro se llega a corroborar el valor teórico con el experimental.
+Se tiene un circuito equivalente de Thévenin, cuya fuente de voltaje es de 15V. y su resistencia equivalente de Thévenin tiene un valor de 1.2 kOhm. Tenemos diez diferentes valores de resistencias de carga (0.22, 0.47, 0.68, 0.82, 1, 1.5, 1.8, 2.2, 3.9, 4.7) cuya unidad de medida son kOhm. 
+
+Se incluye la primera resistencia de carga de 0.22 kOhm al circuito equivalente. Calcular el voltaje en la resistencia de carga que debido a que es un divisor de voltaje, el voltaje ahí va a ser diferente al de la fuente. También es necesario calcular la corriente usando el valor del voltaje de la fuente y de la corriente total. Luego se calcula la potencia haciendo uso de cualquiera de las tres formulas existentes, I*V, V^2/RL, I^2*RL.  Repetir el mismo proceso para cada valor de la resistencia de carga. 
+
+Realizando estos cálculos se podrá observar que conforme el valor de la resistencia de carga se acerca al valor de la resistencia interna de la fuente, que va a ser la misma que la resistencia equivalente de Thévenin, el valor de la potencia incrementara. Cuando el valor de la resistencia de carga es igual al de la resistencia interna de la fuente se presentará la máxima potencia que podrá ser transferida. Por otro lado, cuando el valor de la resistencia de carga excede el valor de la resistencia de Thévenin la potencia ira decreciendo. 
+
+PRÁCTICA:
+
+En cualquier simulador de circuitos eléctricos puede ser Proteus, Tinkercad o cualquier otro se arma el circuito equivalente de Thévenin con la fuente de 15V. y la resistencia equivalente de 1.5 kOhm. Se debe incluir un voltímetro para medir el voltaje en la carga, un amperímetro para medir la corriente y un medidor de potencia. Luego se añade cada resistencia de carga. Al iniciar la simulación se podrá observar si los valores calculados se asemejan a los valores de la simulación. Si los cálculos están bien y el circuito de la simulación esta bien armado los valores obtenidos deben ser los mismos o al menos similares. De lo contrario en algún lado hay un error. 
+
+De igual manera, con la simulación se podrá corroborar que mientras el valor de la resistencia de carga se asemeja al de la resistencia interna de la fuente la potencia incrementara hasta legar al punto máximo cuando las dos resistencias son iguales. Pero cuando el valor de la carga se aleja la potencia menorara. 
+
 
 
 **6.APORTACIONES**
@@ -83,6 +93,8 @@ Finalmente se llega a corroborar el teorema de  máxima  transferencia de potenc
 
 **10.BIBLIOGRAFÍA**
 
-	Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN
+-Teorema de máxima transferencia de potencia. (2016, 5 diciembre). [Vídeo]. YouTube. https://www.youtube.com/watch?v=uPcY8fedBdA
+
+-Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
 
 **11.ANEXOS**
