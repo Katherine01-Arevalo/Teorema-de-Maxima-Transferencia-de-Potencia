@@ -74,7 +74,7 @@ Si se cumple  el teorema de Máxima Transferencia ya que para los valores  muy g
 
 ¿Cuál fue la potencia máxima en RL?
 
-0.04Watts
+0.04 Watts
 
 ¿Para qué valor de RL se obtiene la MTP?
 
