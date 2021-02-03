@@ -69,9 +69,12 @@ PREGUNTAS
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 Si se cumple  el teorema de Máxima Transferencia ya que para los valores  muy grandes y los valores muy pequeños  la potencia es mínima y para los valores que se aproxima a la resistencia de 1200Ω se observa la máxima transferencia de potencia.
+
 ![GRAFICA](https://github.com/Katherine01-Arevalo/Teorema-de-Maxima-Transferencia-de-Potencia/blob/main/img/grafica.png)
 
-¿Cuál fue la potencia máxima en RL?0.04Watts
+¿Cuál fue la potencia máxima en RL?
+
+0.04Watts
 
 ¿Para qué valor de RL se obtiene la MTP?
 
